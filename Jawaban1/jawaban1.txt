@@ -1,9 +1,19 @@
-Paradigma adalah aliran pemikiran atau model yang memiliki fitur, kerangka kerja, pola, dan gaya berbeda yang membantu kita memecahkan masalah tertentu.Paradigma digunakan dalam segala bidang seperti psikologi, sosiologi, etimologi, ilmu komputer dan lain sebagainya. 
+# Paradigma adalah aliran pemikiran atau model yang memiliki fitur, kerangka kerja, pola, 
+  dan gaya berbeda yang membantu kita memecahkan masalah tertentu.Paradigma digunakan dalam 
+  segala bidang seperti psikologi, sosiologi, etimologi, ilmu komputer dan lain sebagainya. 
 
-Paradigma pemrograman adalah konsep yang dianut metodologi bahasa pemrograman. Paradigma penting karena menentukan bahasa pemrograman dan cara kerjanya.
+# Paradigma pemrograman adalah konsep yang dianut metodologi bahasa pemrograman. Paradigma penting karena 
+  menentukan bahasa pemrograman dan cara kerjanya.
 
-Paradigma Pemrograman adalah suatu gaya, teknik, atau cara penulisan suatu program. Kita juga dapat mengatakan paradigma pemrograman adalah berbagai pendekatan untuk memecahkan suatu masalah. Dan adalah mungkin untuk memecahkan masalah yang sama dengan menggunakan paradigma yang berbeda, seperti halnya terdapat beberapa rute untuk mencapai dari satu desa ke desa lainnya. Namun, jenis masalah tertentu lebih cocok secara alami dengan paradigma tertentu.
+# Paradigma Pemrograman adalah suatu gaya, teknik, atau cara penulisan suatu program. Kita juga dapat 
+  mengatakan paradigma pemrograman adalah berbagai pendekatan untuk memecahkan suatu masalah. Dan adalah 
+  mungkin untuk memecahkan masalah yang sama dengan menggunakan paradigma yang berbeda, seperti halnya terdapat 
+  beberapa rute untuk mencapai dari satu desa ke desa lainnya. Namun, jenis masalah tertentu lebih 
+  cocok secara alami dengan paradigma tertentu.
 
-Menurut dosenit.com pemrograman berorientasi objek merupakan metode yang berorientasi terhadap objek. Dimana semua data maupuan fungsi di definisikan ke dalam beberapa kelas atau objek yang tujuannya yaitu saling bekerjasama untuk memecahkan suatu masalah.
+# Menurut dosenit.com pemrograman berorientasi objek merupakan metode yang berorientasi terhadap objek. 
+  Dimana semua data maupuan fungsi di definisikan ke dalam beberapa kelas atau objek yang tujuannya yaitu 
+  saling bekerjasama untuk memecahkan suatu masalah.
 
-Metode ini biasa dikenal dengan istilah OOP (Objek Oriented Programming). Metode ini bisa memberikan fleksibiltas yang lebih banyak, pengubahan program yang mudah, dan sangat cocok digunakan untuk pemrograman yang berskala besar.
+# Metode ini biasa dikenal dengan istilah OOP (Objek Oriented Programming). Metode ini bisa memberikan fleksibiltas 
+  yang lebih banyak, pengubahan program yang mudah, dan sangat cocok digunakan untuk pemrograman yang berskala besar.
