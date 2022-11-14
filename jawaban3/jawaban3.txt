@@ -1,0 +1,13 @@
+# Keyword break digunakan untuk menghentikan secara paksa sebuah perulangan, 
+  sedangkan continue dipakai untuk memaksa maju ke perulangan berikutnya.
+
+   if val == "h":
+        continue
+        #break
+    print (val)
+print ("selesai")
+
+# Penjelasan
+    1. Jika val = h maka akan dipaksa lanjut ke perulangan selanjutnya
+    2. Jika tidak sama dengan h maka perulangan akan berhenti dan 
+       menampilkan nilai dari val dan menampilka pesan "selesai"
